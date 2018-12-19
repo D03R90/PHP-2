@@ -45,7 +45,7 @@ class Goods
             <hr>
             <b>Дата:</b>$this->date
             <h2>Карточка товара</h2>
-            <p><b>Код товара:</b> $this->article</p>
+            <p><b>Артикул:</b> $this->article</p>
             <p><b>Категория:</b> $this->category</p>
             <p><b>Наименование:</b> $this->title</p>
             <p><b>Описание:</b> $this->description</p>
